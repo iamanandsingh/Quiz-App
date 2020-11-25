@@ -1,17 +1,8 @@
 # quizapp
 
-A new Flutter application.
+A quiz app which asks some trival questions and gives you points based on your answer. It is a flutter project and it runs on both android and iOS. 
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-06-12 at 12 31 02](https://user-images.githubusercontent.com/54743879/100259962-de743d80-2f6e-11eb-847f-0d4cecea652b.png)
+![Simulator Screen Shot - iPhone 11 Pro Max - 2020-06-12 at 12 31 13](https://user-images.githubusercontent.com/54743879/100259985-e59b4b80-2f6e-11eb-8644-0f1c20ac6ec2.png)
